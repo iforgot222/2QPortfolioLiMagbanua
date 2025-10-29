@@ -2,7 +2,7 @@
 # Title
 ## subtitle
 ### Logo
-### ![Logo](./asset/logo-project.jpg " logo")
+### ![Logo](./asset/logo-project.png " logo")
 *****
 ### Description
 This webpage will showcase different masterpieces across Europe during the renaissance as well as feature well-known masters of art. Not only that, but it will introduce people or the users to significant movements in artistic history, along with its contributors. Within the webpage, there will be interactive elements to provide the user a more entertaining yet educational experience. 
@@ -34,10 +34,10 @@ This webpage will showcase different masterpieces across Europe during the renai
 #### ![Artists2](./asset/artist-prev-next.png "artists2")
 
 ####  History 
-#### ![History](./asset/history.jpg "history")
+#### ![History](./asset/history.png "history")
 
 #### Quiz 
-#### ![Quiz](./asset/mini-quiz.jpg "mini quiz")
+#### ![Quiz](./asset/mini-quiz.png "mini quiz")
 
 #### Sources 
 #### ![Sources](./asset/sources.png "sources")
