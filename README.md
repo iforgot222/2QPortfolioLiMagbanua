@@ -1,9 +1,8 @@
 # WDProjLithiumCelisMagbanua
 # Title
 ## subtitle
-*****
 ### Logo
-### ![Logo](../asset/logo-project.jpg " logo")
+### ![Logo](./asset/logo-project.jpg " logo")
 *****
 ### Description
 This webpage will showcase different masterpieces across Europe during the renaissance as well as feature well-known masters of art. Not only that, but it will introduce people or the users to significant movements in artistic history, along with its contributors. Within the webpage, there will be interactive elements to provide the user a more entertaining yet educational experience. 
@@ -24,22 +23,22 @@ This webpage will showcase different masterpieces across Europe during the renai
 
 ### Wireframes
 #### Home 
-#### ![Homepage1](../asset/homepage.png "homepage1")
-#### ![Homepage2](../asset/homepage-no-menu.png "homepage2")
+#### ![Homepage1](./asset/homepage.png "homepage1")
+#### ![Homepage2](./asset/homepage-no-menu.png "homepage2")
 
 #### Art Style 
-#### ![Themes](../asset/themes.png "themes")
+#### ![Themes](./asset/themes.png "themes")
 
 #### Artists 
-#### ![Artists1](../asset/artists.png "artists1")
-#### ![Artists2](../asset/artist-prev-next.png "artists2")
+#### ![Artists1](./asset/artists.png "artists1")
+#### ![Artists2](./asset/artist-prev-next.png "artists2")
 
 ####  History 
-#### ![History](../asset/history.jpg "history")
+#### ![History](./asset/history.jpg "history")
 
 #### Quiz 
-#### ![Quiz](../asset/mini-quiz.jpg "mini quiz")
+#### ![Quiz](./asset/mini-quiz.jpg "mini quiz")
 
 #### Sources 
-#### ![Sources](../asset/sources.png "sources")
+#### ![Sources](./asset/sources.png "sources")
 
